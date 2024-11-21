@@ -11,18 +11,21 @@ The default camera position should already include the text I added to explain h
 
 Here is the text again separately in case you deleted it or something:
 
+<p style="margin-left:1 rem;">
 
-  <i>Add Collider as transparent SVG, then select your blob and go into the tab at the top called Geometry Nodes and at the very left of the node tree you should see an area called Collision.
-  There is a node at the very left of it called object info, that has a little text box, replace the stuff in there with the SVG you just added.
+<i>Add Collider as transparent SVG, then select your blob and go into the tab at the top called Geometry Nodes and at the very left of the node tree you should see an area called Collision.
+There is a node at the very left of it called object info, that has a little text box, replace the stuff in there with the SVG you just added.
 
-  You can also edit your blob size by editing the Source Geometry underneath it (in the window on the top right).
-  Use S for scaling, R for rotating and G for moving.
-  After every change press CTRL+A and then Apply All Transforms.
+You can also edit your blob size by editing the Source Geometry underneath it (in the window on the top right).
+Use S for scaling, R for rotating and G for moving.
+After every change press CTRL+A and then Apply All Transforms.
 
-  You can delete this text by selecting it and pressing X and then Delete.
+You can delete this text by selecting it and pressing X and then Delete.
 
-  The default colours are Coral Red for the lines and Dark Aubergine for the filled blobs.
+The default colours are Coral Red for the lines and Dark Aubergine for the filled blobs.
 
-  Preview by holding Z + pressing Num 8, render with the Render button at the top left
+Preview by holding Z + pressing Num 8, render with the Render button at the top left
 
-  Enjoy the blobs :)</i>
+Enjoy the blobs :)</i>
+
+</p>

@@ -1,6 +1,7 @@
 # 38C3-blender
 An explained version of the simplified version of the blender file that came with the 38c3 Styleguide
 (I felt that the simplified one lacked a bit of explaining for total beginners, so I added some)
+
 All credit for the original file goes to the 38C3 team and to yvmqznrm for creating the geonodes, I just put some text beside it.
 
 To open this file you need do download Blender on <a href="https://www.blender.org/download/">the official Blender Website</a> and once you downloaded it, it should land you on the Layout View.

@@ -7,6 +7,7 @@ All credit for the original file goes to the 38C3 team and to yvmqznrm for creat
 To open this file you need do download Blender on <a href="https://www.blender.org/download/">the official Blender Website</a> and once you downloaded it, it should land you on the Layout View.
 The default camera position should already include the text I added to explain how the file works and where to modify things :)
 
+The simplified version by yvmqznrm is blob_simplified.blend, my modified version is blob_simplified_explained.blend.
 
 ===
 
